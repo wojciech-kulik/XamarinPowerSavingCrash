@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "power_saving_crash.Android", "power_saving_crash.Android\power_saving_crash.Android.csproj", "{6CE06D65-1043-4D82-A66C-439256D8E5EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "power_saving_crash", "power_saving_crash\power_saving_crash.csproj", "{B821306E-58E8-4873-9735-701413A79269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE06D65-1043-4D82-A66C-439256D8E5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE06D65-1043-4D82-A66C-439256D8E5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE06D65-1043-4D82-A66C-439256D8E5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE06D65-1043-4D82-A66C-439256D8E5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B821306E-58E8-4873-9735-701413A79269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B821306E-58E8-4873-9735-701413A79269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B821306E-58E8-4873-9735-701413A79269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B821306E-58E8-4873-9735-701413A79269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

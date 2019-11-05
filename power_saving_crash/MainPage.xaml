@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="power_saving_crash.MainPage">
+    <StackLayout Spacing="25">
+        <Image x:Name="icon" Source="icon.png" WidthRequest="100" HeightRequest="100"
+               VerticalOptions="Center" HorizontalOptions="Center" />
+
+        <Label x:Name="testLabel" Text="This text should be visible!"
+               TextColor="Black" FontSize="Large" HorizontalTextAlignment="Center"/>
+
+        <Button Text="Check if crashed" Clicked="ButtonClicked" HorizontalOptions="Center" /> 
+    </StackLayout>
+</ContentPage>
